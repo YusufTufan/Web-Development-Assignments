@@ -4,7 +4,7 @@ This repository contains various projects, focusing on modern full-stack web dev
 
 Each project is located in its own directory (e.g., `Project-1`) and includes a dedicated `README.md` file detailing its features, requirements, and the specific technologies utilized.
 
----
+--- 
 
 ## 📌 Projects
 
